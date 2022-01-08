@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BladyPeralta24
-- 👀 I’m interested in learn many languages
+- 👀 I’m interested in learn many programming languages
 - 🌱 I’m currently learning programming
 
 <!---
